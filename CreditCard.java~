@@ -1,0 +1,62 @@
+
+
+//pigs can fly
+
+public class CreditCard
+
+  
+//findType
+  //if first two elements equal 51, 52, 53, 54, 55 then mastercard
+    //return 1
+  //else if first element equals 4 then visa card
+    //return 2
+  //else if first four elements equals 6011 then discover
+    //return 3
+  //else if first two elements equal 34, 37 then amex
+    //return 4
+  //else if first two elements equal 36, 38 then carte blanch/binor's
+  //or first three elements equals 300, 301, 302, 303, 304, 305 then carte blanch/binor's
+    //return 5
+  
+
+// verify with Luhn Check
+
+public boolean verify (String num)
+{
+  int sum = 0;
+  boolean first = false;
+  for (int i = num.length()-1, i > 0, i--) //runs through entire string
+   if first = false
+  {
+    
+    if (i % 2 = 0)
+  {
+    if (i < 10)
+    {
+      num * 2;   //multiply even numbers from end by two
+    sum += i;
+    }
+    else
+    {
+      int
+      evensum
+    
+    
+  //if solution is equal to or more than ten then add the two elements together
+  //add these numbers together
+  
+  //add odd numbers from end together
+  
+  //add odd numbers and even numbers together
+  //divide sum by 10
+  //if remainer is zero, then credit card is valid
+  //else, credit card is invalid
+  
+  
+  
+  
+  
+  
+  
+  
+  
